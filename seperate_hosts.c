@@ -1,11 +1,3 @@
-/*
- * Copyright (c) 2004-2006 The Trustees of Indiana University and Indiana
- *                         University Research and Technology
- *                         Corporation.  All rights reserved.
- * Copyright (c) 2006      Cisco Systems, Inc.  All rights reserved.
- *
- * Sample MPI "hello world" application in C
- */
 
 #include <errno.h>
 #include <fcntl.h>
